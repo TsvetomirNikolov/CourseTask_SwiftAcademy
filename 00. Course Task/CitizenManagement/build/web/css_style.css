@@ -1,4 +1,32 @@
 
- h1 {
-  font-style: italic;
+h1 {
+    font-style: italic;
+    color:black;
+    justify-content: center;
+    font-size: 2.2em;
+    text-align: center;
+    padding: 5px;
+    background: coral;
+    text-shadow:gray 1mm 1mm 1px;
+
+}
+body{color:black;
+     background-image: url("pic.png");
+     background-position: center;
+     background-size: cover;
+}
+table{ align-content:center;
+       border: medium solid black;
+       width: 80%}
+td{border: thin dotted black;
+   padding: 1px}
+#button{
+    width: 180px;
+}
+ul {
+    width: 10em
+}
+.right {
+    float: right
+}​
 }
